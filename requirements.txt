@@ -1,5 +1,5 @@
 tensorflow==2.9.2
-tensorflow-addons>=0.10.0
+tensorflow-addons>=0.17.0
 
 efficientnet>=1.0.0
 
@@ -7,7 +7,7 @@ Pillow>=7.0.0
 
 Click>=7.0
 Cython>=0.29.14
-pycocotools==2.0.0
+pycocotools==2.0.5
 
 
 google-cloud-storage
